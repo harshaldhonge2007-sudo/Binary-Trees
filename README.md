@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0222-count-complete-tree-nodes](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0222-count-complete-tree-nodes](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0101-symmetric-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->

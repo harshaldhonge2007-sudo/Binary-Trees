@@ -14,16 +14,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0101-symmetric-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
@@ -56,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->

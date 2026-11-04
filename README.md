@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0101-symmetric-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0113-path-sum-ii/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -124,4 +127,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0113-path-sum-ii](https://github.com/harshaldhonge2007-sudo/Binary-Trees/tree/main/0113-path-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
